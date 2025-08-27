@@ -1,8 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://www.subedidipesh.info.np/</loc>
-      <lastmod>2025-08-27</lastmod>
-      <priority>1.0</priority>
-   </url>
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.subedidipesh.info.np/</loc>
+    <lastmod>2025-08-27</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Education page -->
+  <url>
+    <loc>https://www.subedidipesh.info.np/education</loc>
+    <lastmod>2025-08-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Skills page -->
+  <url>
+    <loc>https://www.subedidipesh.info.np/skills</loc>
+    <lastmod>2025-08-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Experience page -->
+  <url>
+    <loc>https://www.subedidipesh.info.np/experience</loc>
+    <lastmod>2025-08-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Profile page -->
+  <url>
+    <loc>https://www.subedidipesh.info.np/profile</loc>
+    <lastmod>2025-08-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Portfolio page -->
+  <url>
+    <loc>https://www.subedidipesh.info.np/portfolio</loc>
+    <lastmod>2025-08-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact page -->
+  <url>
+    <loc>https://www.subedidipesh.info.np/contact</loc>
+    <lastmod>2025-08-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
