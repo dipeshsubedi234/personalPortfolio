@@ -36,6 +36,13 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Education Section -->
+  <url>
+    <loc>https://www.subedidipesh.info.np/#education</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Contact Section -->
   <url>
     <loc>https://www.subedidipesh.info.np/#contact</loc>
@@ -44,3 +51,4 @@
   </url>
 
 </urlset>
+
