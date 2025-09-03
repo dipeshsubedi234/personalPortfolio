@@ -8,47 +8,4 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- About Section -->
-  <url>
-    <loc>https://www.subedidipesh.info.np/#about</loc>
-    <lastmod>2025-08-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Services Section -->
-  <url>
-    <loc>https://www.subedidipesh.info.np/#services</loc>
-    <lastmod>2025-08-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Skills Section -->
-  <url>
-    <loc>https://www.subedidipesh.info.np/#skills</loc>
-    <lastmod>2025-08-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Experience Section -->
-  <url>
-    <loc>https://www.subedidipesh.info.np/#experience</loc>
-    <lastmod>2025-08-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Education Section -->
-  <url>
-    <loc>https://www.subedidipesh.info.np/#education</loc>
-    <lastmod>2025-08-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Contact Section -->
-  <url>
-    <loc>https://www.subedidipesh.info.np/#contact</loc>
-    <lastmod>2025-08-29</lastmod>
-    <priority>0.8</priority>
-  </url>
-
 </urlset>
-
