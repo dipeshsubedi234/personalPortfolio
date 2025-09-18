@@ -8,4 +8,41 @@
     <priority>1.0</priority>
   </url>
 
+  <!-- Sections as anchors -->
+  <url>
+    <loc>https://www.subedidipesh.info.np/#about</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.subedidipesh.info.np/#services</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.subedidipesh.info.np/#skills</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.subedidipesh.info.np/#experience</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.subedidipesh.info.np/#education</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.subedidipesh.info.np/#contact</loc>
+    <lastmod>2025-08-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
 </urlset>
